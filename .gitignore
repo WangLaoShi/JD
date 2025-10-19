@@ -31,7 +31,7 @@ build/
 
 # 数据文件（根据需要调整）
 # 取消注释下面的行来忽略数据文件
-*.csv
-*.xlsx
-*.json
+# *.csv
+# *.xlsx
+# *.json
 # !config.json
